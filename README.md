@@ -10,7 +10,7 @@ AmazingPrime Video requested an algorithm to predict the popular low budget film
 
 2. Software:
 - Jupyter Notebook
-- pgADMIN
+- PostgreSQL
 
 ## ETL
 - Extract: Extracted the data from movies_metadata.cvs and ratings.csv to create one dataset
